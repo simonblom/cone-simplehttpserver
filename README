@@ -1,0 +1,30 @@
+# README #
+This is my solution to a project in Computer Networking 7.5 c,
+it is to be used for demonstrative purposes only.
+
+It is a simple HTTP server.
+
+Build instructions for Linux
+============================
+
+To build the program, open a terminal, navigate to
+the directory and type:
+
+	java -jar pyttewebb.jar
+
+
+Build instructions for Windows
+==============================
+To build the program, open a command prompt, navigate to
+the directory and type:
+
+	java -jar pyttewebb.jar
+
+
+Build instructions for OS X (experimental)
+==========================================
+
+Should be roughly the same procedure as for Linux.
+
+Since I am not a Mac user (or have access to Macs), I will
+only provide limited support for this platform.
